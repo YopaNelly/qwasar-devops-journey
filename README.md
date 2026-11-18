@@ -1,23 +1,16 @@
-# Welcome to Quest04
-***
+# Quest04
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Practice dynamic memory in C with malloc, and build functions that return arrays and strings.
 
 ## Description
-TODO - How have you solved the problem?
+Each exercise is a small C function, such as my_range, my_strdup, my_join and my_spaceship, that allocates the memory it returns.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+Compile any file with gcc and add your own main in a separate test file, because the exercises contain only functions.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+Call the functions from a main, for example my_join(array, "-") returns the strings joined by a dash.
 
 ### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
+Gertrude Nelly Tatchou Yopa
